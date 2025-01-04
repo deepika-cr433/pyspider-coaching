@@ -1,0 +1,5 @@
+john.doe@example..
+john.doe@example
+john.doe@
+@
+.com
